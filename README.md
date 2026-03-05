@@ -4,8 +4,8 @@
 Me apasiona transformar ideas en soluciones tecnológicas robustas. Tengo una base sólida en el desarrollo de software, con especial enfoque en la creación de aplicaciones moviles para andorid.
 
 - 🔭 **Actualmente trabajando en:** Mejorar mis habilidades en arquitecturas móviles.
-- 🚀 **Proyecto destacado:** [By Your Side](https://github.com/Javy747/ByYourSide), una app desarrollada íntegramente desde la concepción hasta la implementación por mi.
-- 🌱 **Aprendiendo:** [Python, Jetpack Compose, .Net].
+- 🚀 **Proyecto destacado:** [By Your Side](https://github.com/Javy747/ByYourSide), una app desarrollada íntegramente desde la concepción hasta la implementación en Kotlin y 100% por mi.
+- 🌱 **Aprendiendo:** Python, Jetpack Compose, .Net.
 
 ---
 

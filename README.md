@@ -5,7 +5,7 @@ Me apasiona transformar ideas en soluciones tecnológicas robustas. Tengo una ba
 
 - 🔭 **Actualmente trabajando en:** Mejorar mis habilidades en arquitecturas móviles.
 - 🚀 **Proyecto destacado:** [By Your Side](https://github.com/Javy747/ByYourSide), una app desarrollada íntegramente desde la concepción hasta la implementación en Kotlin y 100% por mi.
-- 🌱 **Aprendiendo:** Python, Jetpack Compose, .Net.
+- 🌱 **Aprendiendo:** Python, Jetpack Compose, .Net, Linux.
 
 ---
 
@@ -18,6 +18,9 @@ Me apasiona transformar ideas en soluciones tecnológicas robustas. Tengo una ba
 
 **Entornos y Otros:**
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat&logo=android-studio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat&logo=visual-studio&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=flat&logo=Eclipse%20IDE&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 
 ---

@@ -5,7 +5,7 @@ Me apasiona transformar ideas en soluciones tecnológicas robustas. Tengo una ba
 
 - 🔭 **Actualmente trabajando en:** Mejorar mis habilidades en arquitecturas móviles.
 - 🚀 **Proyecto destacado:** [By Your Side](https://github.com/Javy747/ByYourSide), una app desarrollada íntegramente desde la concepción hasta la implementación en Kotlin y 100% por mi.
-- 🌱 **Aprendiendo:** Python, Jetpack Compose, .Net, Linux.
+- 🌱 **Aprendiendo:** Python, Jetpack Compose, .Net y Linux.
 
 ---
 
